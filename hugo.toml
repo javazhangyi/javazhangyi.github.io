@@ -1,0 +1,43 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+# 网站的副标题
+subtitle = 'A great site about everything'
+# 网站的描述，用于搜索引擎优化
+description = 'This is a description of my Hugo site.'
+# 网站的关键词，用于搜索引擎优化
+keywords = ['hugo', 'site', 'example']
+# 网站的作者
+author = 'Your Name'
+
+
+# 指定使用的主题
+theme = 'doks'
+
+[menu]
+[[menu.main]]
+name = 'Home'
+url = '/'
+weight = 1
+[[menu.main]]
+name = 'About'
+url = '/about/'
+weight = 2
+
+# 构建时是否生成草稿内容
+buildDrafts = false
+# 构建时是否生成未来发布的内容
+buildFuture = false
+# 构建时是否生成过期的内容
+buildExpired = false
+
+
+
+# 静态资源目录
+staticDir = ['static']
+# 输出目录
+publishDir = 'public'
+# 开发服务器的端口
+port = 1313
+# 开发服务器的主机
+bind = '127.0.0.1'
