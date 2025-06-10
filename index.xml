@@ -1,48 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Welcome to ZY Community on 首页</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content in Welcome to ZY Community on 首页</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <copyright>Copyright (c) 2020-2024 Thulite</copyright>
-    <lastBuildDate>Tue, 27 Feb 2024 09:30:56 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Example Post</title>
-      <link>http://localhost:1313/blog/example-post/</link>
-      <pubDate>Thu, 07 Sep 2023 16:27:22 +0200</pubDate>
-      <guid>http://localhost:1313/blog/example-post/</guid>
-      <description>You can use blog posts for announcing product updates and features.</description>
-    </item>
-    <item>
-      <title>介绍</title>
-      <link>http://localhost:1313/docs/guides/%E4%BB%8B%E7%BB%8D/</link>
-      <pubDate>Thu, 07 Sep 2023 16:04:48 +0200</pubDate>
-      <guid>http://localhost:1313/docs/guides/%E4%BB%8B%E7%BB%8D/</guid>
-      <description>资源信息共享社区开放啦！ ✨ 诚邀您成为资源共建者！ ✨&#xA;如果您拥有各类优质资源（如学习资料、行业报告、工具模板、技术干货等），欢迎在社区内单独创建子门类，与千万用户共享价值，拓展资源传播力！&#xA;如何参与？ 微信联系：&#xA;添加微信：javazhangyi&#xA;（备注：资源共建 + 您的领域/资源类型）&#xA;公众号获取更多信息：&#xA;关注公众号：javazhangyi | 文案梅花&#xA;回复“资源共享”，获取社区入驻指南及共建福利详情。&#xA;您将获得什么？ 精准曝光：资源直达目标用户，提升个人/品牌影响力； 人脉拓展：链接同领域从业者，解锁合作机会； 价值共生：通过共享获得积分、收益或优先使用权（具体规则可咨询客服）。 社区资源范围（示例） 职场技能：PPT模板、Excel技巧、行业分析报告； 学习成长：考研资料、外语课程、职业资格认证干货； 技术开发：编程教程、开发工具、开源项目资源； 营销策划：文案案例、活动方案、新媒体运营资料； 更多领域：欢迎您来定义！ 让资源流动起来，共享创造无限可能！</description>
-    </item>
-    <item>
-      <title>电子书资源</title>
-      <link>http://localhost:1313/docs/reference/%E7%94%B5%E5%AD%90%E4%B9%A6%E8%B5%84%E6%BA%90/</link>
-      <pubDate>Thu, 07 Sep 2023 16:13:18 +0200</pubDate>
-      <guid>http://localhost:1313/docs/reference/%E7%94%B5%E5%AD%90%E4%B9%A6%E8%B5%84%E6%BA%90/</guid>
-      <description>一、电子书资源与下载 爱学术-优先推荐 账号：javazhangyi，密码：104625root Library Genesis (LibGen) 免费电子书、文献资源库 Anna&amp;rsquo;s Archive 开源书籍与文献检索 1lib 多语言电子书搜索下载 古腾堡计划 免费公版电子书库（经典文学为主） ManyBooks 多类型免费电子书下载 Free-eBooks 涵盖多领域的免费电子书平台 SoBooks 中文免费电子书资源站 PDF Drive PDF电子书搜索与下载 OpenELIB 开放获取电子书与学术资源 PDFdz 中文PDF资源与文档检索（含“考研”“职场”等分类） 24小时书屋 中文电子书实时更新平台 图书搜 中文图书与文献搜索工具 知搜 中文综合资源搜索引擎 书魁网 中文电子书下载与分享平台 未来书屋 免费中文电子书资源站 二、社群请加微信javazhangyi 如何你后期对该资源的补充，或者想做功能改进请加微信 部分资源需要vpn+账号，如果已有账号的同学，愿意分享，可以微信联系 </description>
-    </item>
-    <item>
-      <title>Resources</title>
-      <link>http://localhost:1313/docs/resources/</link>
-      <pubDate>Tue, 27 Feb 2024 09:30:56 +0100</pubDate>
-      <guid>http://localhost:1313/docs/resources/</guid>
-      <description>Link to valuable, relevant resources.</description>
-    </item>
-    <item>
-      <title>Privacy Policy</title>
-      <link>http://localhost:1313/privacy/</link>
-      <pubDate>Thu, 07 Sep 2023 17:19:07 +0200</pubDate>
-      <guid>http://localhost:1313/privacy/</guid>
-      <description></description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Welcome to ZY Community on 首页</title><link>/</link><description>Recent content in Welcome to ZY Community on 首页</description><generator>Hugo</generator><language>en</language><copyright>Copyright (c) 2020-2024 Thulite</copyright><lastBuildDate>Tue, 27 Feb 2024 09:30:56 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Example Post</title><link>/blog/example-post/</link><pubDate>Thu, 07 Sep 2023 16:27:22 +0200</pubDate><guid>/blog/example-post/</guid><description>You can use blog posts for announcing product updates and features.</description></item><item><title>介绍</title><link>/docs/guides/%E4%BB%8B%E7%BB%8D/</link><pubDate>Thu, 07 Sep 2023 16:04:48 +0200</pubDate><guid>/docs/guides/%E4%BB%8B%E7%BB%8D/</guid><description>资源信息共享社区开放啦！ ✨ 诚邀您成为资源共建者！ ✨
+如果您拥有各类优质资源（如学习资料、行业报告、工具模板、技术干货等），欢迎在社区内单独创建子门类，与千万用户共享价值，拓展资源传播力！
+如何参与？ 微信联系：
+添加微信：javazhangyi
+（备注：资源共建 + 您的领域/资源类型）
+公众号获取更多信息：
+关注公众号：javazhangyi | 文案梅花
+回复“资源共享”，获取社区入驻指南及共建福利详情。
+您将获得什么？ 精准曝光：资源直达目标用户，提升个人/品牌影响力； 人脉拓展：链接同领域从业者，解锁合作机会； 价值共生：通过共享获得积分、收益或优先使用权（具体规则可咨询客服）。 社区资源范围（示例） 职场技能：PPT模板、Excel技巧、行业分析报告； 学习成长：考研资料、外语课程、职业资格认证干货； 技术开发：编程教程、开发工具、开源项目资源； 营销策划：文案案例、活动方案、新媒体运营资料； 更多领域：欢迎您来定义！ 让资源流动起来，共享创造无限可能！</description></item><item><title>电子书资源</title><link>/docs/reference/%E7%94%B5%E5%AD%90%E4%B9%A6%E8%B5%84%E6%BA%90/</link><pubDate>Thu, 07 Sep 2023 16:13:18 +0200</pubDate><guid>/docs/reference/%E7%94%B5%E5%AD%90%E4%B9%A6%E8%B5%84%E6%BA%90/</guid><description>一、电子书资源与下载 爱学术-优先推荐 账号：javazhangyi，密码：104625root Library Genesis (LibGen) 免费电子书、文献资源库 Anna&amp;rsquo;s Archive 开源书籍与文献检索 1lib 多语言电子书搜索下载 古腾堡计划 免费公版电子书库（经典文学为主） ManyBooks 多类型免费电子书下载 Free-eBooks 涵盖多领域的免费电子书平台 SoBooks 中文免费电子书资源站 PDF Drive PDF电子书搜索与下载 OpenELIB 开放获取电子书与学术资源 PDFdz 中文PDF资源与文档检索（含“考研”“职场”等分类） 24小时书屋 中文电子书实时更新平台 图书搜 中文图书与文献搜索工具 知搜 中文综合资源搜索引擎 书魁网 中文电子书下载与分享平台 未来书屋 免费中文电子书资源站 二、社群请加微信javazhangyi 如何你后期对该资源的补充，或者想做功能改进请加微信 部分资源需要vpn+账号，如果已有账号的同学，愿意分享，可以微信联系</description></item><item><title>Resources</title><link>/docs/resources/</link><pubDate>Tue, 27 Feb 2024 09:30:56 +0100</pubDate><guid>/docs/resources/</guid><description>Link to valuable, relevant resources.</description></item><item><title>Privacy Policy</title><link>/privacy/</link><pubDate>Thu, 07 Sep 2023 17:19:07 +0200</pubDate><guid>/privacy/</guid><description/></item></channel></rss>
